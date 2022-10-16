@@ -1,0 +1,24 @@
+.agilebox{
+    position: relative;
+    width: 31%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin: 6px;
+    overflow: hidden;
+}
+.imageagile{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    
+}
+.logo{
+   overflow: hidden;
+    float: left;
+    height: 40px;
+    width: 100px;
+}
